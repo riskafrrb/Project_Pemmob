@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AndroidSqlite</string>
+    <string name="kode_pelanggan">Kode Pelanggan</string>
+    <string name="nama">Nama</string>
+    <string name="no_ponsel">No. Ponsel</string>
+    <string name="ubah">Ubah</string>
+    <string name="baru">Baru</string>
+    <string name="simpan">SImpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="no_telp">No. Telp</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_kode_pelanggan">Masukkan Kode Pelanggan</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="kota_asal">Kota Asal</string>
+    <string name="tb">TB</string>
+    <string name="masukkan_npm">Masukkan NPM</string>
+    <string name="masukkan_riwayat">Masukkan Riwayat</string>
+    <string name="no">NO</string>
+    <string name="riwayat">RIWAYAT</string>
+    <string name="nama_mahasiswa">NAMA</string>
+    <string name="npm">NPM</string>
+    <string name="berat_badan">Berat Badan</string>
+    <string name="tinggi_badan">Tinggi Badan</string>
+    <string name="riwayat_penyakit">Riwayat Penyakit</string>
+    <string name="bb">BB</string>
+    <string name="npm_mhs">NPM</string>
+</resources>
