@@ -74,6 +74,7 @@
             android:minHeight="48dp"
             android:textColorHint="#546E7A"
             android:textSize="14sp"
+            android:padding="16dp"
             app:layout_constraintStart_toEndOf="@+id/textView"
             app:layout_constraintTop_toTopOf="parent"
             tools:ignore="LabelFor" />

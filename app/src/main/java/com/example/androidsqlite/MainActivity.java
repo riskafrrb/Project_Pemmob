@@ -1,4 +1,4 @@
- package com.example.androidsqlite;
+package com.example.androidsqlite;
 
 import androidx.appcompat.app.AppCompatActivity;
 //import android.app.Activity;
@@ -12,7 +12,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 import android.os.Bundle;
 
- public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
     DatabaseManager dm;
     private EditText eNm,enpm, ekode, eTb, eBb, eRiwayat;
     private Button bBaru, bSimpan, bUbah, bHapus;
